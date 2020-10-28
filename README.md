@@ -17,7 +17,7 @@ $ pip install pyautogui
 - 1.Double click on pyAutoClicker.py
 - 2.Click on "Open With PyCharm"
 - 3.Click on run icon
-- 4. And now your done!
+- 4.And now your done!
 
 # License
 [MIT] @svrnn
